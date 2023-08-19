@@ -1,0 +1,17 @@
+body{
+    background-color: #daf7f4;
+}
+#svyrjetesesnas{
+    font-size: 45px;
+}
+#vl {
+    border-left: 3px solid green;
+    height: 250px;
+    position: absolute;
+    left: 50%;
+    margin-left: -250px;
+  }
+  #button{
+    background-color:#f76f76;
+    font-style: italic;
+  }
