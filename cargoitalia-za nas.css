@@ -7,11 +7,13 @@ body{
 #vl {
     border-left: 3px solid green;
     height: 250px;
-    position: absolute;
     left: 50%;
-    margin-left: -250px;
+    margin-left: -100px;
   }
   #button{
     background-color:#f76f76;
     font-style: italic;
+  }
+  .container {
+    flex-wrap: wrap ;
   }
